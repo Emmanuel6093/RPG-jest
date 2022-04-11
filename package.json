@@ -1,0 +1,22 @@
+{
+  "name": "rpg-jest",
+  "version": "1.0.0",
+  "description": "jest RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel6093/RPG-jest.git"
+  },
+  "author": "Emmanuel Lorenzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmanuel6093/RPG-jest/issues"
+  },
+  "homepage": "https://github.com/Emmanuel6093/RPG-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
